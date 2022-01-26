@@ -33,28 +33,31 @@ sidebar:
       - item: Observar pessoas, tendo em conta a sua postura
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Mestrado em Psicologia Forense e Exclusão Social
+      university: Universidade Lusófona de Humanidades e Tecnologias
+      time: 2012 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Natureza Cientifica e função social.
+        Práticas de Psicologia, quer nos domínios judíciais quer na valência
+        de Exclusão Social
+        
+    - degree: Licenciatura em Psicologia
+      university: Universidade Lusófona de Humanidades e Tecnologias
+      time: 2009 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Preparação pedagógica básica que permita o acesso à docência ao nível
+        do ensino e competências de avaliação psicométrica que assegurem a
+        participação em processos de avaliação psicológica, ao nível da 
+        administração e cotação de testes e escalas quantitativas.
+     
+      - degree: Licenciatura em Linguística e Literatura Aplicadas
+      university: Universidade de Évora
+      time: 2006
+      details: |
+        Conhecimentos em lingua, linguística, literatura e cultura,
+        bem como em áreas que com as mesma estabelecem relações
+        complementares comprovadamente produtivas.
+        
 experiences:
     - role: Lead Developer
       time: 2015 - Present
