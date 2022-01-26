@@ -82,6 +82,21 @@ experiences:
         - Dar explicações
         - Acompanhamento de alunos
         - Reuniões de pais e de professores
+        
+     - role: Rececionista de Hotel
+      time: 2003 - 2005
+      company: Hotel da Cartuxa em Évora
+      details: |
+        - Receção e acompanhamento do cliente
+        - Emissão da faturação e pagamentos
+     
+     - role: Logista
+      time: 2002
+      company: Loja com Arte em Évora
+      details: |
+        - Acompanhamento dos clientes
+        - Reposição de mercadoria
+        - Manutenção da loja
        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
