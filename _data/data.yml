@@ -39,11 +39,11 @@ career-profile:
       
 education:
     - degree: Mestrado em Psicologia Forense e Exclusão Social
-      university: Universidade Lusófona de Humanidades e Tecnologias
+      university: Universidade Lusófona
       time: 2012 - 2014
         
     - degree: Licenciatura em Psicologia
-      university: Universidade Lusófona de Humanidades e Tecnologias
+      university: Universidade Lusófona
       time: 2009 - 2012
   
     - degree: Literatura em Linguistica e Literatura Aplicadas
@@ -51,52 +51,36 @@ education:
       time: 2006
         
 experiences:
-    - role:  Professora
-      time: 2018 - Presente
+    - role: Professora
+      time: 2021 - Present
       company: Ensino Miramar
       details: |
-         - Leccionar aulas
+         - Acompanhamento aos alunos
          - Dar explicações
-         - Acompanhamento de alunos
          - Reuniões de pais e de professores
-         
-    - role:   Auditora
-      time: 2013 - 2018
+                   
+    - role: Auditora
+      time: 2013 – 2021
       company: Centro Comercial do Colombo (Lisboa)
       details: |
-         - Verificação das Vendas das lojas
-         - Elaboração de relatórios críticos sobre o espaço auditado 
-          
+        - Verificação de vendas das lojas
+        - Elaboração de relatórios críticos sobre o espaço auditado
+        
     - role: Operadora de Call-Center (Inbound)
-      time: 2007 - 2012
+      time: 2007 – 2012
       company: Nos / Zon
       details: |
         - Responsável pela ativação de serviços
-        - Apoio Técnico a clientes
+        - Apoio técnico a clientes
         
     - role: Professora
       time: 2006 - 2007
-      company: Ensino
+      company: Ensino em Évora
       details: |
-        - Lecionar aulas
+        - Leccionar aulas
+        - Acompanhamento aos alunos
+        - Reunião de pais e professores
         - Dar explicações
-        - Acompanhamento de alunos
-        - Reuniões de pais e de professores
-        
-     - role: Rececionista de Hotel
-      time: 2003 - 2005
-      company: Hotel da Cartuxa em Évora
-      details: |
-        - Receção e acompanhamento do cliente
-        - Emissão da faturação e pagamentos
-     
-     - role: Logista
-      time: 2002
-      company: Loja com Arte em Évora
-      details: |
-        - Acompanhamento dos clientes
-        - Reposição de mercadoria
-        - Manutenção da loja
        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
