@@ -82,21 +82,22 @@ experiences:
         - Reunião de pais e professores
         - Dar explicações
         
-    - role: Operadora de Call-Center (Inbound)
-      time: 2007 – 2012
-      company: Nos / Zon
+    - role: Rececionista de Hotel
+      time: 2003 - 2005
+      company: Hotel da Cartuxa em Évora
       details: |
-        - Responsável pela ativação de serviços
-        - Apoio técnico a clientes
+        - Acompanhamento do cliente
+        - Manutenção do espaço
+        - Emissão de faturas e receber pagamentos
         
-    - role: Professora
-      time: 2006 - 2007
-      company: Ensino em Évora
+    - role: Logista
+      time: 2002
+      company: Loja com Artes em Évora
       details: |
-        - Leccionar aulas
-        - Acompanhamento aos alunos
-        - Reunião de pais e professores
-        - Dar explicações
+        - Reposição e armazenamento dos produtos
+        - Acompanhamento do cliente
+        - Manutenção do espaço
+        - Etiquetagem dos produtos
        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
