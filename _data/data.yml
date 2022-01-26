@@ -7,55 +7,31 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Gisela Carmo
+    tagline: Auditora
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: giselcarmo@gmail.com
+    github: GiselaCarmo22
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Portugês
+        level: Nativa
 
-      - idiom: French
-        level: Professional
+      - idiom: Francês
+        level: Utilizador Independente
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Inglês
+        level: Utilizador Avançado
 
     interests:
-      - item: Climbing
-        link:
+      - item: Dançar
 
-      - item: Snowboarding
-        link:
+      - item: Ler
 
-      - item: Cooking
-        link:
+      - item: Observar pessoas, tendo em conta a sua postura
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
 education:
     - degree: MSc in Computer Science
       university: University of London
