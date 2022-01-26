@@ -51,15 +51,22 @@ education:
       time: 2006
         
 experiences:
-    - role:   Auditora
+    - role:  Professora
       time: 2013 - Present
+      company: Ensino
+      details: |
+         - Verificação das Vendas das lojas e elaboração de relatórios críticos
+         sobre o espaço auditado
+         
+    - role:   Auditora
+      time: 2013 - 2018
       company: Centro Comercial do Colombo (Lisboa)
       details: |
          - Verificação das Vendas das lojas e elaboração de relatórios críticos
          sobre o espaço auditado
           
     - role: Operadora de Call-Center (Inbound)
-      time: 02007 - 2012
+      time: 2007 - 2012
       company: Nos / Zon
       details: |
         - Responsável pela ativação de serviços
