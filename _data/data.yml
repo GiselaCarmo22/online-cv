@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Gisela Carmo
     tagline: Auditora
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar:
 
     # Sidebar links
     email: giselcarmo@gmail.com
@@ -40,7 +40,6 @@ education:
         Natureza Cientifica e função social.
         Práticas de Psicologia, quer nos domínios judíciais quer na valência
         de Exclusão Social
-        
     - degree: Licenciatura em Psicologia
       university: Universidade Lusófona de Humanidades e Tecnologias
       time: 2009 - 2012
@@ -49,7 +48,6 @@ education:
         do ensino e competências de avaliação psicométrica que assegurem a
         participação em processos de avaliação psicológica, ao nível da 
         administração e cotação de testes e escalas quantitativas.
-     
       - degree: Licenciatura em Linguística e Literatura Aplicadas
       university: Universidade de Évora
       time: 2006
